@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KirjaHaku</string>
+    <string name="author">Kirjailija</string>
+    <string name="content_description">Kuva kirjan kannesta</string>
+    <string name="description">Esittely</string>
+    <string name="empty_search_error">Ainakin yhdessä hakukentässä pitää olla tietoa</string>
+    <string name="invalid_json">Virhe tietojen käsittelyssä. Yritä tarkemmilla hakusanoilla</string>
+    <string name="no_results">Ei näytettäviä kohteita</string>
+    <string name="search">Hae</string>
+    <string name="title">Kirjan nimi</string>
+    <string name="url_null_error">Virhe tiedon käsittelyssä. Yritä myöhemmin uudelleen</string>
+</resources>
